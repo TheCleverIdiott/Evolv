@@ -1,4 +1,4 @@
-![Evolv Banner](assets/evolv%20banner.png)
+![Evolv Banner](https://github.com/TheCleverIdiott/Evolv/blob/main/evolv_banner-removebg-preview.png)
 
 # Welcome to Evolv
 
